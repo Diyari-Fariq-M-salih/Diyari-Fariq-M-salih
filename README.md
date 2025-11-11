@@ -1,4 +1,4 @@
-# 🦇 Hey there, I'm Diyari
+# 👋👋👋 Hey there, I'm Diyari
 
 🎓 MSc Student in *Smart Aerospace and Autonomous Systems (SAAS)* at **Université Paris-Saclay / Poznań University of Technology**  
 🎓 B.Sc. in **Mechanics & Mechatronics Engineering** from **Salahaddin University – Erbil** (Second in Department)  
