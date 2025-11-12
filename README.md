@@ -48,7 +48,7 @@
 ---
 
 ### 🧮 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyari-Fariq-M-salih&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyari-Fariq-M-salih&layout=compact&theme=tokyonight&&hide=G-code)
 
 ---
 
