@@ -55,6 +55,7 @@
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diyari%20Fariq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyari-fariq)  
 [![Gmail](https://img.shields.io/badge/Email-diyari.m.salih%40gmail.com-red?style=flat&logo=gmail)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Diyari%20Fariq-blue?style=flat&logo=linkedin)](https://diyari-fariq-m-salih.github.io/)
 
 ---
 
