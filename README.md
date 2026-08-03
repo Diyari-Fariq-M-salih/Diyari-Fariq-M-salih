@@ -47,7 +47,10 @@
 
 ---
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diyari-Fariq-M-salih&layout=compact&theme=tokyonight)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8)
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros)
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diyari%20Fariq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyari-fariq)  
